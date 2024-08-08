@@ -16,4 +16,4 @@ Introdução
 
 	Classe Project: Esta classe armazena informações básicas sobre um projeto, como nome e descrição. Ela é útil para identificar e distinguir diferentes projetos dentro de um sistema ou aplicação. A Project encapsula informações relacionadas ao projeto, tornando o código mais organizado e modular. A classe inclui atributos, construtores e métodos de acesso (get e set).
 
-  Banco de Dados: O banco de dados foi desenvolvido em colaboração com Gabriel Monteiro. Foram feitas 3 tabelas abrangendo: CLIENTES (nome, email, telefone), LOJAS PARCEIRAS (lojas cadastradas), ORÇAMENTO (referenciando os clientes e as lojas parceiras). Fizemos em conjunto utilizando o github, onde foram feitas alterações no mesmo tópico simultaneamente.
+  	Banco de Dados: O banco de dados foi desenvolvido em colaboração com Gabriel Monteiro. Foram feitas 3 tabelas abrangendo: CLIENTES (nome, email, telefone), LOJAS PARCEIRAS (lojas cadastradas), ORÇAMENTO (referenciando os clientes e as lojas parceiras). Fizemos em conjunto utilizando o github, onde foram feitas alterações no mesmo tópico simultaneamente.
